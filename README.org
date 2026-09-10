@@ -1,0 +1,9 @@
+* asdf-macos-app
+
+ASDF extension that builds macOS .app bundles from SBCL images.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/lispnik/asdf-macos-app.git |
+| commit  | 0000000                                          |
+| systems | asdf-macos-app                                   |
+|---------+--------------------------------------------------|
